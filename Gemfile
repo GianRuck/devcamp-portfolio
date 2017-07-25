@@ -56,3 +56,4 @@ gem 'devise', '~> 4.3'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
 gem 'gruck_view_tool', git: 'https://github.com/GianRuck/gruck_view_tool'
+gem 'petergate', '~> 1.7'
