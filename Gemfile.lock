@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/GianRuck/gruck_view_tool
+  revision: e5115366bc7b25c1724dc3942e1772e1d3bb451b
+  specs:
+    gruck_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -186,6 +192,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   devise (~> 4.3)
   friendly_id (~> 5.1.0)
+  gruck_view_tool!
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   pg (~> 0.18)
